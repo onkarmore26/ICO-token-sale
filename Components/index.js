@@ -1,5 +1,5 @@
 import About from "./About";
-import ArrowUP from "./ArrowUP";
+import ArrowUP from "./ArrowUp";
 import Banner from "./Banner";
 import Blog from "./Blog";
 import Client from "./Client";
@@ -12,7 +12,7 @@ import Loader from "./Loader";
 import MobileApp from "./MobileApp";
 import Service from "./Service";
 import Team from "./Team";
-import Timeline from "./Timeline";
+import Timeline from "./TimeLine";
 import TokenSale from "./TokenSale";
 
 export {
