@@ -52,7 +52,7 @@ const TokenSale = ({ buyToken, tokenSale }) => {
                 data-animation="fadeInUp"
                 data-animation-delay="0.2s"
               >
-                February 22, 2025 (Sat 10:00 AM)
+                March 15, 2025 (Sat 10:00 AM)
               </p>
             </div>
             <div className="pr_box">
@@ -68,7 +68,7 @@ const TokenSale = ({ buyToken, tokenSale }) => {
                 data-animation="fadeInUp"
                 data-animation-delay="0.2s"
               >
-                March 14, 2025 (Fri 05:00 PM)
+                March 31, 2025 (Mon 05:00 PM)
               </p>
             </div>
             <div className="pr_box">
